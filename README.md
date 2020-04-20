@@ -6,7 +6,9 @@ To install Belka simply extract the distributive.
 
 
 COMPILATION
+
 Navigate to belka/src directory and type 'make'.
+
 
 
 EXECUTION
